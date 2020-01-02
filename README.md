@@ -1,0 +1,2 @@
+# mgrmoney-app
+money
